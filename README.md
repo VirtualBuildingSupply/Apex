@@ -1,4 +1,4 @@
-If you have any problems or have any sugestions for Apex please create an issue here to let us know.
+If you have any problems or have any sugestions for Apex please create an issue [here](https://github.com/VirtualBuildingSupply/Apex/issues) to let us know.
 
 
 ![Tux, the Linux mascot](https://itembuilders.com/wp-content/uploads/2020/11/summit_02-1024x434.png)
