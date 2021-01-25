@@ -1,4 +1,3 @@
-# Apex
 If you have any problems or have any sugestions for Apex please create an issue here to let us know.
 
 
