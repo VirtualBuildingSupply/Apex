@@ -1,5 +1,5 @@
 # Apex
-Apex is an Autodesk Fabrication Database built by Virtual Building Supply. If you have any issues with the database you can report them here.
+If you have any problems or have any sugestions for Apex please create an issue here to let us know.
 
 
 ![Tux, the Linux mascot](https://itembuilders.com/wp-content/uploads/2020/11/summit_02-1024x434.png)
