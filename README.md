@@ -3,6 +3,19 @@ If you have any problems or have any sugestions for Apex please create an issue 
 
 ![Tux, the Linux mascot](https://itembuilders.com/wp-content/uploads/2020/11/summit_02-1024x434.png)
 ## Updates
+### 01/25/2021 ###
+
+#### Updated Spears LabWaste fittings
+>Changes made due to manufacturer updates.
+
+#### Rebuilt service template
+- CPVC-DWV (Solvent-Spears LabWaste)
+
+#### Added Charlotte No-Hub Fittings
+
+#### Added piping service template
+- CI (NH-Charlotte)
+
 ### 01/23/2021 ###
 
 #### Updated Nibco solder fittings
