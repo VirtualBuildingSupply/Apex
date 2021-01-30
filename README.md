@@ -10,7 +10,7 @@ If you have any problems or have any sugestions for Apex please create an issue 
 #### Updated Aquatherm pipe and fittings
 >Changed connector group name
 
-#### Added coupling to duct services
+#### Added couplings to duct services
 
 ### 01/25/2021 ###
 
