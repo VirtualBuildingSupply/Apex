@@ -3,6 +3,13 @@ If you have any problems or have any sugestions for Apex please create an issue 
 
 ![Tux, the Linux mascot](https://itembuilders.com/wp-content/uploads/2020/11/summit_02-1024x434.png)
 ## Updates
+### 01/30/2021 ###
+#### Imported additional support rods
+>Removed double quotes from descriptions
+
+#### Updated Aquatherm pipe and fittings
+>Changed connector group name
+
 ### 01/25/2021 ###
 
 #### Updated Spears LabWaste fittings
