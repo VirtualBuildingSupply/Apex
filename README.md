@@ -5,11 +5,11 @@ If you have any problems or have any sugestions for Apex please create an issue 
 ## Updates
 ### 03/03/2021 ###
 #### Added Piping Insulation
->Elastomeric Foam
->Fiberglass
->Nitrile
->Polyethylene
->Rubber
+- Elastomeric Foam
+- Fiberglass
+- Nitrile
+- Polyethylene
+- Rubber
 
 ### 01/30/2021 ###
 #### Imported additional support rods
