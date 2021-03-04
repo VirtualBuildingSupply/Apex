@@ -3,6 +3,13 @@ If you have any problems or have any sugestions for Apex please create an issue 
 
 ![Tux, the Linux mascot](https://itembuilders.com/wp-content/uploads/2020/11/summit_02-1024x434.png)
 ## Updates
+### 03/04/2021 ###
+#### Added Service Template
+- CU (Grooved-Victaulic) x CU (Solder-Nibco)
+
+#### Added Items
+- Victaulic Dielectric Transition Fittings
+
 ### 03/03/2021 ###
 #### Added Piping Insulation
 - Elastomeric Foam
