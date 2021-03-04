@@ -6,6 +6,7 @@ If you have any problems or have any sugestions for Apex please create an issue 
 ### 03/04/2021 ###
 #### Added Service Template
 - CU (Grooved-Victaulic) x CU (Solder-Nibco)
+- CU (Grooved-Victaulic) x CU (Press-Nibco)
 
 #### Added Items
 - Victaulic Dielectric Transition Fittings
