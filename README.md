@@ -13,6 +13,9 @@ If you have any problems or have any sugestions for Apex please create an issue 
 - Mueller Copper Type K Pipe
 - Mueller Copper Type M Pipe
 
+#### Updated product line
+- Uponor PEX
+
 ### 03/03/2021 ###
 #### Added Piping Insulation
 - Elastomeric Foam
