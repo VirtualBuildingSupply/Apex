@@ -9,6 +9,8 @@ If you have any problems or have any sugestions for Apex please create an issue 
 
 #### Added Items
 - Victaulic Dielectric Transition Fittings
+- Mueller Copper Type K Pipe
+- Mueller Copper Type M Pipe
 
 ### 03/03/2021 ###
 #### Added Piping Insulation
