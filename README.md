@@ -16,6 +16,7 @@ If you have any problems or have any sugestions for Apex please create an issue 
 
 #### Updated product line
 - Uponor PEX
+- Viega MegaPressG
 
 ### 03/03/2021 ###
 #### Added Piping Insulation
