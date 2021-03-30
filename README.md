@@ -20,8 +20,12 @@ If you have any problems or have any sugestions for Apex please create an issue 
 #### Added Service Template
 - CU (Grooved-Victaulic) x CU (Press-Mueller)
 
+#### Added Reports
+- Prefab - Floor Supports.IRP
+- Prefab - Floor Supports.IRP
+
 ### 03/04/2021 ###
-#### Added Service Template
+#### Added Service Templates
 - CU (Grooved-Victaulic) x CU (Solder-Nibco)
 - CU (Grooved-Victaulic) x CU (Press-Nibco)
 - CS (Viega-MegaPressG)
