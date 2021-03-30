@@ -5,7 +5,7 @@ If you have any problems or have any sugestions for Apex please create an issue 
 ## Updates
 ### 03/30/2021 ###
 #### Added Items
-- ProFlo Access Dorrs
+- ProFlo Access Doors
 - Charlotte Pipe service weight fittings
 - Charlotte Pipe XH service weight fittings
 - Anvil cast iron threaded fittings
@@ -105,5 +105,3 @@ If you have any problems or have any sugestions for Apex please create an issue 
 #### Changed service names 
 - Medical Air -- Medical Compressed Air 
 - Medical Vacuum -- Medical-Surgical Vacuum 
-
- 
