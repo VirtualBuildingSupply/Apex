@@ -3,6 +3,16 @@ If you have any problems or have any sugestions for Apex please create an issue 
 
 ![Tux, the Linux mascot](https://itembuilders.com/wp-content/uploads/2020/11/summit_02-1024x434.png)
 ## Updates
+### 04/12/2021 ###
+#### Added Items
+- Mueller solder fittings
+
+#### Added Service Template
+- CU (Solder-Mueller)
+- CS (Butt Weld-Weldbend) x CU (Solder-Mueller)
+- CS (Butt Weld-Weldbend) x CU (Solder-Mueller)
+- CS-GALV (Grooved-Victaulic) x CU (Press-Mueller)
+
 ### 03/30/2021 ###
 #### Added Items
 - ProFlo Access Doors
